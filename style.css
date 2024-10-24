@@ -1,6 +1,8 @@
 .myContainer {
 	width:900px;
 	text-align:900px;
+	background-color: #ff34AE;
+	border:1px solid blue;
 	display:grid;
 	background-color: #ff34AE;
 	grid-template-columns:300px 300px 300px;
