@@ -1,3 +1,4 @@
 .myContainer {
-	background-color: blue;
+	display:grid;
+	background-color: #ff34AE;
 }
