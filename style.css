@@ -2,7 +2,8 @@
 	width:900px;
 	text-align:900px;
 	display:grid;
-	background-color: #ff34AE;	
+	background-color: #ff34AE;
+	grid-template-columns:300px 300px 300px
 }
 
 .items {
