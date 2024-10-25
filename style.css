@@ -1,15 +1,28 @@
 .myContainer {
-	width:900px;
-	height:900px;
-	text-align:900px;
-	background-color: #ff34AE;
-	border:1px solid blue;
-	display:grid;
-	background-color: #ff34AE;
-	grid-template-columns:300px 300px 300px;
+	background-color: #cdb365;	
 }
 
 .items {
 	text-align:center;
-	border:1px solid black;
+	border:1px solid #fff;
+	display:flex;
 }
+
+.boxInterne {
+	background-color:#ffde7d;
+	display:flex;
+	width:96%;
+	margin:2%;
+}
+
+.boxInterne p {
+	margin:auto;
+}
+
+
+/*
+color 1 : #ffde7d
+color 1 dark : #cdb365
+color 2 : #46a5dc
+color 2 dark : #3a87b3
+*/
