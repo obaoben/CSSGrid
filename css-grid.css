@@ -1,3 +1,7 @@
 .myContainer {
-
+	width:900px;
+	height:900px;
+	display:grid;
+	grid-template-columns:repeat(3, 300px);
+	grid-template-rows:1fr 1fr 1fr;
 }
